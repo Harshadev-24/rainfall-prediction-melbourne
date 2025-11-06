@@ -216,7 +216,6 @@ rainfall-prediction-melbourne/
 
 ## 🔮 Future Improvements
 
-- [ ] Implement SMOTE or class weighting for better recall on rain days
 - [ ] Add more recent data (2018-2025) for improved predictions
 - [ ] Build an ensemble model combining Random Forest + XGBoost
 - [ ] Create an interactive web app using Streamlit
@@ -231,8 +230,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👤 Contact
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/Harshadev-24)
-- LinkedIn: [Your Profile](http://www.linkedin.com/in/harsha-vardhan-847296257)
+- GitHub: [@Harshadev-24](https://github.com/Harshadev-24)
+- LinkedIn: [Profile](http://www.linkedin.com/in/harsha-vardhan-847296257)
 - Email: harsha2003hvd@gmail.com
 
 ## 🙏 Acknowledgments
