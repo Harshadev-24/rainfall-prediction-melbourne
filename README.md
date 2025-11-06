@@ -1,7 +1,7 @@
 
 # 🌧️ Rain Prediction Model for Melbourne Area
 
-A machine learning classifier that predicts daily rainfall in the Melbourne metropolitan area using historical Australian weather data. Built as the capstone project for IBM AI Engineering Professional Certificate.
+A machine learning classifier that predicts daily rainfall in the Melbourne metropolitan area using historical Australian weather data. Built as the capstone project in Machine Learning with Python for IBM AI Engineering Professional Certificate.
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.2%2B-orange.svg)](https://scikit-learn.org/)
@@ -94,13 +94,7 @@ git clone https://github.com/yourusername/rainfall-prediction-melbourne.git
 cd rainfall-prediction-melbourne
 ```
 
-2. **Create virtual environment** (recommended)
-```bash
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-```
-
-3. **Install dependencies**
+2. **Install dependencies**
 ```bash
 pip install -r requirements.txt
 ```
@@ -193,13 +187,11 @@ rainfall-prediction-melbourne/
 ├── data/                            # Dataset (optional - if small)
 │   └── weatherAUS.csv
 │
-├── images/                          # Visualizations
-│   ├── confusion_matrix.png
-│   ├── feature_importance.png
-│   └── class_distribution.png
-│
-└── models/                          # Saved models (optional)
-    └── random_forest_pipeline.pkl
+└── images/                          # Visualizations
+    ├── confusion_matrix.png
+    ├── feature_importance.png
+    └── class_distribution.png
+
 ```
 
 ## 🛠️ Technologies Used
@@ -239,13 +231,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👤 Contact
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- GitHub: [@yourusername](https://github.com/Harshadev-24)
+- LinkedIn: [Your Profile](http://www.linkedin.com/in/harsha-vardhan-847296257)
+- Email: harsha2003hvd@gmail.com
 
 ## 🙏 Acknowledgments
 
-- **IBM AI Engineering Professional Certificate** for the project framework
+- **IBM AI Engineering Professional Certificate - Machine Learning with Python** for the project framework
 - **Australian Bureau of Meteorology** for the dataset
 - **Kaggle** for hosting the data
 - **scikit-learn** community for excellent documentation
