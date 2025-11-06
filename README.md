@@ -1,7 +1,7 @@
 
 # 🌧️ Rain Prediction Model for Melbourne Area
 
-A machine learning classifier that predicts daily rainfall in the Melbourne metropolitan area using historical Australian weather data. Built as the capstone project in Machine Learning with Python for IBM AI Engineering Professional Certificate.
+A machine learning classifier that predicts daily rainfall in the Melbourne metropolitan area using historical Australian weather data. Built as the capstone project for Machine Learning with Python course in IBM AI Engineering Professional Certificate.
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.2%2B-orange.svg)](https://scikit-learn.org/)
